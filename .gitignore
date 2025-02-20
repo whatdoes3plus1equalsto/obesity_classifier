@@ -173,3 +173,6 @@ cython_debug/
 # data files
 ObesityTrainDataSet.jsonl
 ObesityTestDataSet.jsonl
+
+# model
+meta-llama
